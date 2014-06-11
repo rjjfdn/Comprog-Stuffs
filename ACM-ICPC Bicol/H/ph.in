@@ -1,0 +1,35 @@
+5 4
+Naga City,City of Iriga,Northwest
+Masbate City,Naga City,Southeast
+Tabaco City,City of Ligao,Northeast
+Sorsogon City,Legazpi City,Southeast
+City of Ligao,Legazpi City,West
+Naga City,City of Iriga
+City of Iriga,Naga City
+Sorsogon City,Naga City
+Sorsogon City,City of Ligao
+
+3 5
+Naga City,Masbate City,Northwest 
+City of Ligao,Legazpi City,West
+Tabaco City,Masbate City,North
+Masbate City,Naga City
+City of Ligao,Legazpi City
+Masbate City,Tabaco City
+Naga City,Tabaco City
+City of Ligao,Tabaco City
+
+4 1
+Naga City,Tabaco City,Northwest
+Tabaco City,Legazpi City,North
+Legazpi City,Masbate City,North
+Sorsogon City,Masbate City,Northeast
+Naga City,Sorsogon City
+
+3 1
+Naga City,Tabaco City,Northwest
+Tabaco City,Legazpi City,North
+Legazpi City,Sorsogon City,Northwest
+Naga City,Sorsogon City
+
+0

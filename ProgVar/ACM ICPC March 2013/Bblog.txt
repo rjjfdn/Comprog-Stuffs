@@ -1,0 +1,17 @@
+This is another free problem: given an integer between 1-10000 (wow, such range, so big), determine if it is a prime number or not. Look at this free problem. It's like reminiscing the past when I was still in my first programming class. Not to be very boastful, but this problem should really be banned forever in programming contests.
+
+Here is the problem statement: <link>
+
+Primality test is a very popular topic in mathematics and in computer programming. After mastering your iteration skills (while, for, do-while), this topic is introduced and is sometimes given as an activity. Later on, you'll realize that this naive algorithm you have coded is not efficient for bigger integers. After googling, you'll encounter sieves, Sieve of Eratosthenes being the most popular and easiest to implement. Then you'll start looking at theories on primality tests, etc.
+
+In this problem, you are given a very small range that can easily be accommodated by an O(n^2) algorithm. So, a naive algorithm is enough, and a sieve is an overkill. Since I assume you already know both of these, I will introduce a new way to test primality of an integer, in Java. There exists a class called BigInteger, a class that handles integers not handled by the long datatype. In that class, there exists a method named isProbablePrime(int certainty). This can be used fast with 100% accuracy on that range.
+
+This is a sample implementation of the isProbablePrime method, which is also our solution to this problem:
+
+<code>
+
+If my view count goes down (from zero to a negative number), I'll blame this problem. I am sorry if I bore you to death. :-(
+
+I'm still at the airplane to Manila. I have 39 minutes (7% remaining) of battery left. I just finished my in-flight meal, pork over chicken it is since I ate a lot of chicken meals in Thailand. We have no idea on how the pork was cooked, but it wasn't bad. Since Ipong wanted to take a picture of his meal but didn't have a camera on his hand, I boasted my camera and ended up taking a picture of my meal, so here it is:
+
+<picture>

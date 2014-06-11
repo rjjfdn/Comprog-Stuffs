@@ -1,0 +1,15 @@
+The problem is very straightforward: reverse a number. It is very simple that even a first year student taking an introductory programming class can actually solve this. They try to "complicate" the problem a little bit by giving the problem an unrelated name and by narrating a very short story regarding dyslexia. Those things really complicate this problem. A lot.
+
+Anyway, here is the problem statement: <link>
+
+There are actually a lot of ways to attack this problem. The most simple, in my opinion, is to convert the integer to string, reverse it (in Java, you can use StringBuffer's reverse() method), and convert it back to integer. What's more funny is that you don't actually need to convert it back to integer, nor you need to actually input an integer. You can do it with strings, because guess what; the judges' input file is very easy. They don't have inputs like "230" (which converts to "032" when not converted back to string) or "0032" (same reason).
+
+This method that we used is probably the safest and the most effective: input an integer, reverse it integer-way by getting the ones digit and dividing the number by 10 every time. This, I think, will work on all cases, even the extreme ones which aren't really extreme enough.
+
+Here is our code:
+
+<code>
+
+Although this was intended to be given as a free problem, a problem which makes it possible for all the teams to solve at least a problem, the difficulty is too much. It was so easy to put into a national programming contest. Note that there are two other free problems that are as easy as this.
+
+I'm at the airplane to Manila right now. I'm going to upload this post later. Since we checked in late, we were seated at the back of the plane, and we are all over the place. Yu and our coach are two rows away from me and Ipong. Ipong is fast asleep. I really wanted to take a picture of him sleeping, but nah. He slept because he has this headache, I don't want to give him more headaches. :))

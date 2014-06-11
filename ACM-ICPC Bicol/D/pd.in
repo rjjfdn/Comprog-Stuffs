@@ -1,0 +1,47 @@
+C1 7 2 5
+a3b1 a2b1
+a5b1 a3b1
+a2b1 a4b1
+a4b1 a2b1
+a2b1 a0b1
+C2 9 3 6
+a3b1 a2b1
+a4b1 a3b1
+a5b2 a4b1
+a4b2 a2b1
+a3b2 a5b0
+a6b1 a0b1
+C3 7 3 6
+a3b2 a2b1
+a4b2 a2b2
+a5b1 a4b2
+a1b2 a2b1
+a6b2 a3b1
+a4b1 a3b2
+C4 11 5 6
+a5b3 a4b2
+a6b4 a4b2
+a3b3 a2b1
+a4b2 a2b4
+a2b2 a8b3
+a3b0 a8b4
+C5 1000 2 4
+a500b1 a500b1
+a1b1 a500b1
+a500b1 a1b1
+a999b1 a999b1
+C6 500 3 6
+a250b2 a29b2
+a29b2 a250b2
+a1b2 a499b1
+a499b1 a1b2
+a300b1 a60b1
+a60b1 a300b1
+C7 1000 3 6
+a750b2 a529b2
+a529b2 a750b2
+a1b2 a999b1
+a999b1 a1b2
+a800b1 a60b1
+a60b1 a800b1
+ZZ 0 0 0
